@@ -7,3 +7,16 @@
 This is the official implementation of the paper [Cap4Video: What Can Auxiliary Captions Do for Text-Video Retrieval?](https://arxiv.org/abs/2301.00184).
 
 Code will be available. Stay tuned.
+
+
+## 📌 Bibtex
+If you find this paper useful, please star🌟 this repo and cite📑 our paper:
+
+```
+@article{wu2022cap4video,
+  title={Cap4Video: What Can Auxiliary Captions Do for Text-Video Retrieval?},
+  author={Wu, Wenhao and Luo, Haipeng and Fang, Bo and Wang, Jingdong and Ouyang, Wanli},
+  journal={arXiv preprint arXiv:2301.00184},
+  year={2022}
+}
+```
