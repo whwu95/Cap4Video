@@ -27,10 +27,10 @@ Code will be available. Stay tuned.
 If you find this paper useful, please star🌟 this repo and cite📑 our paper:
 
 ```
-@article{wu2022cap4video,
+@inproceedings{cap4video,
   title={Cap4Video: What Can Auxiliary Captions Do for Text-Video Retrieval?},
   author={Wu, Wenhao and Luo, Haipeng and Fang, Bo and Wang, Jingdong and Ouyang, Wanli},
-  journal={arXiv preprint arXiv:2301.00184},
-  year={2022}
+  booktitle=CVPR,
+  year={2023}
 }
 ```
