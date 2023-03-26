@@ -18,13 +18,13 @@ Code will be available. Stay tuned.
 
 
 ## 📣 Updates
-- [x] **[Mar 21, 2023]** 😍 Our **Cap4Video** has been selected as a **highlight** paper at CVPR 2023! (Top 2.5% of 9155 submissions).
+- [x] **[Mar 21, 2023]** 😍 Our **Cap4Video** has been selected as a **Highlight** paper at CVPR 2023! (Top 2.5% of 9155 submissions).
 - [x] **[Feb 28, 2023]** 🎉 Our **Cap4Video** has been accepted by **CVPR-2023**.
 
 
 
 ## 📌 Bibtex
-If you find this paper useful, please star🌟 this repo and cite📑 our paper:
+If you find this paper useful, please star 🌟 this repo and cite 📑 our paper:
 
 ```
 @inproceedings{cap4video,
