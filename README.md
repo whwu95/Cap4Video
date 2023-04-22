@@ -24,7 +24,7 @@
 This is the official implementation of the paper [Cap4Video: What Can Auxiliary Captions Do for Text-Video Retrieval?](https://arxiv.org/abs/2301.00184)
 
 
-<details open><summary>📣 I also have other cross-modal video projects that may interest you ✨. </summary><p>
+<details><summary>📣 I also have other cross-modal video projects that may interest you ✨. </summary><p>
 
 
 > [**Revisiting Classifier: Transferring Vision-Language Models for Video Recognition**](https://arxiv.org/abs/2207.01297)<br>
