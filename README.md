@@ -74,7 +74,7 @@ pip install opencv-python boto3 requests pandas
 ```
 
 ## Data Preparing
-All video datasets can be downloaded from respective official links. In order to improve training efficiency, we have preprocessed these videos into frames, which we will package and upload for convenient reproduction of our results.
+All video datasets can be downloaded from respective official links. In order to improve training efficiency, we have preprocessed these videos into frames, which we have packaged and uploaded for convenient reproduction of our results.
 
 | Dataset | Official Link| Our frames (TBD)|
 |:------------:|:-------------------:|:------------------:|
