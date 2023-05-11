@@ -76,7 +76,7 @@ pip install opencv-python boto3 requests pandas
 ## Data Preparing
 All video datasets can be downloaded from respective official links. In order to improve training efficiency, we have preprocessed these videos into frames, which we have packaged and uploaded for convenient reproduction of our results.
 
-| Dataset | Official Link| Our frames (TBD)|
+| Dataset | Official Link| Our frames|
 |:------------:|:-------------------:|:------------------:|
 | MSRVTT | [Video](http://ms-multimedia-challenge.com/2017/dataset)| [Frames](https://unisyd-my.sharepoint.com/:u:/g/personal/wewu2985_sydney_edu_au/EQEYklCTUClGu01komekxcgBQ5lxeInfRm-fhlikMyb8hA?e=Rih3S6) | 
 | DiDeMo | [Video](https://github.com/LisaAnne/LocalizingMoments)| [Frames]() | 
