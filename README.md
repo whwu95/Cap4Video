@@ -81,7 +81,7 @@ All video datasets can be downloaded from respective official links. In order to
 | MSRVTT | [Video](http://ms-multimedia-challenge.com/2017/dataset)| [Frames](https://unisyd-my.sharepoint.com/:u:/g/personal/wewu2985_sydney_edu_au/EQEYklCTUClGu01komekxcgBQ5lxeInfRm-fhlikMyb8hA?e=Rih3S6) | 
 | DiDeMo | [Video](https://github.com/LisaAnne/LocalizingMoments)| [Frames]() | 
 | MSVD | [Video](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/)| [Frames](https://unisyd-my.sharepoint.com/:u:/g/personal/wewu2985_sydney_edu_au/EUdl9tM7TRlFsWqLC4V3ffUBAvqIrcUBXHbLEE4p3SiQVQ?e=4FJtfj)| 
-| VATEX | [Video](https://eric-xw.github.io/vatex-website/download.html)| [Frames]() | 
+| VATEX | [Video](https://eric-xw.github.io/vatex-website/download.html)| [Frames](https://unisyd-my.sharepoint.com/:u:/g/personal/wewu2985_sydney_edu_au/EQd5BwA_bcFBn7SRl0D69XABO4xveLZtu6PUK_DQKEyxfg?e=PsStJs) | 
 
 ## How to Run
 - To begin, you will need to prepare a video dataset that has been processed into frames.
