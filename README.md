@@ -132,5 +132,5 @@ We extend our sincere gratitude to these contributors for their invaluable contr
 
 
 ## 👫 Contact
-For any questions, please feel free to file an issue or reach out to [Wenhao Wu](https://whwu95.github.io/) or [Haipeng Luo](hp.luo@siat.ac.cn).
+For any questions, please feel free to file an issue.
 
