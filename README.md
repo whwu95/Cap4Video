@@ -3,7 +3,7 @@
 <h2>【CVPR'2023 🌟Highlight🌟 】Cap4Video: What Can Auxiliary Captions Do for Text-Video Retrieval? </h2>
 
 
-[![Conference](http://img.shields.io/badge/CVPR-2023(Highlight)-f9f107.svg)]([https://cvpr.thecvf.com/](https://openaccess.thecvf.com/content/CVPR2023/html/Wu_Cap4Video_What_Can_Auxiliary_Captions_Do_for_Text-Video_Retrieval_CVPR_2023_paper.html))
+[![Conference](http://img.shields.io/badge/CVPR-2023(Highlight)-f9f107.svg)](https://openaccess.thecvf.com/content/CVPR2023/html/Wu_Cap4Video_What_Can_Auxiliary_Captions_Do_for_Text-Video_Retrieval_CVPR_2023_paper.html)
 [![arXiv](https://img.shields.io/badge/Arxiv-2311.15732-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2301.00184)
 
 [Wenhao Wu](https://whwu95.github.io/)<sup>1,2</sup>, [Haipeng Luo]()<sup>3</sup>, [Bo Fang](https://bofang98.github.io/)<sup>3</sup>,  [Jingdong Wang](https://jingdongwang2017.github.io/)<sup>2</sup>, [Wanli Ouyang](https://wlouyang.github.io/)<sup>4,1</sup>
