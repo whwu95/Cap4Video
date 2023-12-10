@@ -3,8 +3,8 @@
 <h2>【CVPR'2023 🌟Highlight🌟 】Cap4Video: What Can Auxiliary Captions Do for Text-Video Retrieval? </h2>
 
 
-[![Conference](http://img.shields.io/badge/CVPR-2023(Highlight)-f9f107.svg)](https://cvpr.thecvf.com/)
-[![Paper](http://img.shields.io/badge/Paper-arxiv.2301.00184-b31b1b.svg)](https://arxiv.org/abs/2301.00184)
+[![Conference](http://img.shields.io/badge/CVPR-2023(Highlight)-f9f107.svg)]([https://cvpr.thecvf.com/](https://openaccess.thecvf.com/content/CVPR2023/html/Wu_Cap4Video_What_Can_Auxiliary_Captions_Do_for_Text-Video_Retrieval_CVPR_2023_paper.html))
+[![arXiv](https://img.shields.io/badge/Arxiv-2311.15732-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2301.00184)
 
 [Wenhao Wu](https://whwu95.github.io/)<sup>1,2</sup>, [Haipeng Luo]()<sup>3</sup>, [Bo Fang](https://bofang98.github.io/)<sup>3</sup>,  [Jingdong Wang](https://jingdongwang2017.github.io/)<sup>2</sup>, [Wanli Ouyang](https://wlouyang.github.io/)<sup>4,1</sup>
 
@@ -28,13 +28,15 @@ Welcome to the official implementation of **Cap4Video** - an innovative framewor
 
 
 > [**Revisiting Classifier: Transferring Vision-Language Models for Video Recognition**](https://arxiv.org/abs/2207.01297)<br>
-> Accepted by AAAI 2023 | [[Text4Vis Code]](https://github.com/whwu95/Text4Vis)<br>
-> Wenhao Wu, Zhun Sun, Wanli Ouyang
+> Wenhao Wu, Zhun Sun, Wanli Ouyang <br>
+> [![Conference](http://img.shields.io/badge/AAAI-2023-f9f107.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/25386/25158) [![Journal](http://img.shields.io/badge/IJCV-2023-Bf107.svg)](https://link.springer.com/article/10.1007/s11263-023-01876-w) [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/whwu95/Text4Vis) 
 
 
 > [**Bidirectional Cross-Modal Knowledge Exploration for Video Recognition with Pre-trained Vision-Language Models**](https://arxiv.org/abs/2301.00182)<br>
-> Accepted by CVPR 2023 | [[BIKE Code]](https://github.com/whwu95/BIKE)<br>
-> Wenhao Wu, Xiaohan Wang, Haipeng Luo, Jingdong Wang, Yi Yang, Wanli Ouyang
+> Wenhao Wu, Xiaohan Wang, Haipeng Luo, Jingdong Wang, Yi Yang, Wanli Ouyang <br>
+> [![Conference](http://img.shields.io/badge/CVPR-2023-f9f107.svg)](https://openaccess.thecvf.com/content/CVPR2023/html/Wu_Bidirectional_Cross-Modal_Knowledge_Exploration_for_Video_Recognition_With_Pre-Trained_Vision-Language_CVPR_2023_paper.html) [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/whwu95/BIKE) 
+
+
 
 </p></details>
 
