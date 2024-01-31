@@ -80,10 +80,10 @@ All video datasets can be downloaded from respective official links. In order to
 
 | Dataset | Official Link| Ours|
 |:------------:|:-------------------:|:------------------:|
-| MSRVTT | [Video](http://ms-multimedia-challenge.com/2017/dataset)| [Frames](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/EQEYklCTUClGu01komekxcgBQ5lxeInfRm-fhlikMyb8hA?e=11DEyO) | 
-| DiDeMo | [Video](https://github.com/LisaAnne/LocalizingMoments)| [Video](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/Ef2z3r1kdjVNt2Muu2KHzWoB5H0gwVPybd1OiffqIfU8jA?e=HFAq3h) | 
-| MSVD | [Video](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/)| [Frames](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/EUdl9tM7TRlFsWqLC4V3ffUBAvqIrcUBXHbLEE4p3SiQVQ?e=W3iYZi)| 
-| VATEX | [Video](https://eric-xw.github.io/vatex-website/download.html)| [Frames](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/EQd5BwA_bcFBn7SRl0D69XABO4xveLZtu6PUK_DQKEyxfg?e=D7kGBQ) | 
+| MSRVTT | [Video](http://ms-multimedia-challenge.com/2017/dataset)| [Frames](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/EQEYklCTUClGu01komekxcgBQ5lxeInfRm-fhlikMyb8hA?e=UaC93C) | 
+| DiDeMo | [Video](https://github.com/LisaAnne/LocalizingMoments)| [Video](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/Ef2z3r1kdjVNt2Muu2KHzWoB5H0gwVPybd1OiffqIfU8jA?e=d8RUJv) | 
+| MSVD | [Video](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/)| [Frames](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/EUdl9tM7TRlFsWqLC4V3ffUBAvqIrcUBXHbLEE4p3SiQVQ?e=jeijlW)| 
+| VATEX | [Video](https://eric-xw.github.io/vatex-website/download.html)| [Frames](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/EQd5BwA_bcFBn7SRl0D69XABO4xveLZtu6PUK_DQKEyxfg?e=D3QmOk) | 
 
 ## How to Run
 - To begin, you will need to prepare a video dataset that has been processed into frames.
