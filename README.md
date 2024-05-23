@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>【CVPR'2023 🌟Highlight🌟 】Cap4Video: What Can Auxiliary Captions Do for Text-Video Retrieval? </h2>
+<h2>【CVPR'2023 🌟Highlight🌟 & TPAMI】Cap4Video: What Can Auxiliary Captions Do for Text-Video Retrieval? </h2>
 
 
 [![Conference](http://img.shields.io/badge/CVPR-2023(Highlight)-f9f107.svg)](https://openaccess.thecvf.com/content/CVPR2023/html/Wu_Cap4Video_What_Can_Auxiliary_Captions_Do_for_Text-Video_Retrieval_CVPR_2023_paper.html)
@@ -45,6 +45,7 @@ Welcome to the official implementation of **Cap4Video** - an innovative framewor
 
 
 ## News
+- [x] **[May 24, 2024]** The extension of Cap4Video has been accepted by TPAMI 🎉🎉!!
 - [x] **[Apr 27, 2023]** Our code has been released. Thanks for your star 😝.
 - [x] **[Mar 21, 2023]** 😍 Our **Cap4Video** has been selected as a 🌟**Highlight**🌟 paper at CVPR 2023! (Top 2.5% of 9155 submissions).
 - [x] **[Feb 28, 2023]** 🎉 Our **Cap4Video** has been accepted by **CVPR-2023**.
