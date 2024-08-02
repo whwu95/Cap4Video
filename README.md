@@ -89,7 +89,7 @@ All video datasets can be downloaded from respective official links. In order to
 ## How to Run
 - To begin, you will need to prepare a video dataset that has been processed into frames.
 - Next, download the [CLIP B/32](https://openaipublic.azureedge.net/clip/models/40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af/ViT-B-32.pt) and [CLIP B/16](https://openaipublic.azureedge.net/clip/models/5806e77cd80f8b59890b7e101eabd078d9fb84e6937f9e85e4ecb61988df416f/ViT-B-16.pt) models and place them in the `modules` folder. 
-- Then, download the [Caption files](https://github.com/whwu95/Cap4Video/releases/tag/v1.0) that we provide, and place them in the `data` folder.
+- Then, download the [Caption files](https://github.com/whwu95/Cap4Video/releases) that we provide, and place them in the `data` folder.
 - Finally, execute the following command to train MSRVTT dataset.
 
   ```sh
