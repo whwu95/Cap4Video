@@ -15,9 +15,9 @@ train_video.py \
 --strategy 2 \
 --pretrained_clip_name ViT-B/32 \
 --interaction wti  --text_pool_type transf_avg \
---world_size 8 ;\
+--world_size 8 \
 
-DATA_PATH=/data/Datasets/MSRVTT/MSRVTT_extract_frames/
+
 python -m torch.distributed.launch --nproc_per_node=8  --master_port 2962 \
 train_titles.py \
 --do_train  --num_thread_reader=4 --epochs=5 --batch_size=256 --n_display=20 \
