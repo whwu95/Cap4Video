@@ -125,6 +125,15 @@ If you use our code in your research or wish to refer to the results, please sta
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2023}
 }
+
+
+@article{wu2024cap4video++,
+  title={Cap4Video++: Enhancing Video Understanding with Auxiliary Captions},
+  author={Wu, Wenhao and Wang, Xiaohan and Luo, Haipeng and Wang, Jingdong and Yang, Yi and Ouyang, Wanli},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2024},
+  publisher={IEEE}
+}
 ```
 
 <a name="acknowledgment"></a>
