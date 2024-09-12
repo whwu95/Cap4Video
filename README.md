@@ -45,7 +45,7 @@ Welcome to the official implementation of **Cap4Video** - an innovative framewor
 
 
 ## News
-- [x] **[May 24, 2024]** The extension of Cap4Video has been accepted by TPAMI 🎉🎉!!
+- [x] **[May 24, 2024]** The [extension](https://ieeexplore.ieee.org/abstract/document/10670217) of Cap4Video has been accepted by TPAMI 🎉🎉!!
 - [x] **[Apr 27, 2023]** Our code has been released. Thanks for your star 😝.
 - [x] **[Mar 21, 2023]** 😍 Our **Cap4Video** has been selected as a 🌟**Highlight**🌟 paper at CVPR 2023! (Top 2.5% of 9155 submissions).
 - [x] **[Feb 28, 2023]** 🎉 Our **Cap4Video** has been accepted by **CVPR-2023**.
