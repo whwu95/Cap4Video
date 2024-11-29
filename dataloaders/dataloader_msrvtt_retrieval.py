@@ -62,7 +62,7 @@ class MSRVTT_DataLoader(Dataset):
                               "MASK_TOKEN": "[MASK]", "UNK_TOKEN": "[UNK]", "PAD_TOKEN": "[PAD]"}
         self.BERT_SPECIAL_TOKEN = {"CLS_TOKEN": "[CLS]", "SEP_TOKEN": "[SEP]",
                                    "MASK_TOKEN": "[MASK]", "UNK_TOKEN": "[UNK]", "PAD_TOKEN": "[PAD]"}
-        self.test_web_title_data = json.load(open('data/MSRVTT_test_website_titles.json', 'r'))
+        # self.test_web_title_data = json.load(open('data/MSRVTT_test_website_titles.json', 'r'))
         self.load_video = load_video
 
     def __len__(self):
